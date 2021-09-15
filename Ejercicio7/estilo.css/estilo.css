@@ -1,11 +1,15 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: ridge;
+
 }
 .titulointerior{
     border-bottom: 2px inset lightgray;
+    color: rgb(76, 199, 76);
 }
 span{
     color: green;
+    
 }
 h1{
     letter-spacing: 5px;
@@ -18,8 +22,8 @@ div{
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 30px;
-    border:8px solid gray;
-    border-style: outset;
+    
+    
 }
 .textointerno{
     border-style:ridge;

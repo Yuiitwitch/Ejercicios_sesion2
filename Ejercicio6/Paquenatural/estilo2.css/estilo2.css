@@ -3,6 +3,7 @@ body{
 }
 .titulointerior{
     border-bottom: 2px inset lightgray;
+    color: rgb(76, 199, 76);
 }
 span{
     color: green;
@@ -24,4 +25,8 @@ div{
 .textointerno{
     border-style:ridge;
     border:2px solid lightgray;
+
+}
+.minititulo{
+    color: orange;
 }
