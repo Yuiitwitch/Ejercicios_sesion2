@@ -1,0 +1,65 @@
+/* Estructura de la pagina */
+#container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    height: 100vh;
+}
+#cuerpo{
+    display:flex;
+    float: center;
+    justify-content: center;
+}
+/* Estructura de la pagina */
+.imagen{
+    display:flex;
+    float:center;
+    justify-content: center;
+    height: 35vh
+}
+/* Titulo Parque natural Sierra Bicuerca */
+span{
+    color: green;
+    
+}
+h1{
+    letter-spacing: 10px;
+    text-align: center;
+    color: orange
+}
+/* Titulo Parque natural Sierra Bicuerca */
+.titulotexto{
+    color: lightgreen;
+    border-bottom: 2px solid lightgray;
+    width: 35vw;
+}
+
+.conjuntotexto{
+    border: 2px solid lightgray;
+    width: 40vw;
+
+}
+/* Botones de la lista y caracteristicas lista */
+.botones{
+    width: 110px;
+    height: 35px;
+    margin: 5px;
+    background-color: rgb(92, 211, 92);
+    background: linear-gradient( rgb(92, 211, 92), white);
+}
+.botones:hover{
+    background-color: rgb(189, 189, 117);
+    background: linear-gradient( rgb(189, 189, 117), white);
+}
+
+.lista{
+    padding: 40px;
+}
+/* Footer de la pagina */
+.footer{
+    display: flex;
+    float: center;
+    justify-content: center;
+}
+#textoinferior{
+    color: lightgray;
+}
