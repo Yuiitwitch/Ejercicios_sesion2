@@ -1,0 +1,7 @@
+@media (max-width: 200px){
+    p { color : red;}
+}
+@media (min-width: 300px){
+    p {color: rgb(55,0,255);}
+}
+p{background-color: aquamarine;}
